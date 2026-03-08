@@ -15,9 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication2">
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAFdX1ymivi2efHlJJhIBw-_HtCiNGKt2s" />
+        
 
         <activity
             android:name=".MapsActivity"
